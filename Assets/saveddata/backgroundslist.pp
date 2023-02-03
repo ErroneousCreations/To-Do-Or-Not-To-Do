@@ -1,0 +1,1 @@
+{"BackgroundPaths":["/Users/samuel/Documents/Clutter/Unity/ToDoOrNotToDo/Assets/backgrounds/0.png","/Users/samuel/Documents/Clutter/Unity/ToDoOrNotToDo/Assets/backgrounds/1.png"]}
